@@ -1,6 +1,3 @@
-from email import message
-from turtle import right
-from webbrowser import get
 import pyautogui as pt
 from time import sleep
 import pyperclip
